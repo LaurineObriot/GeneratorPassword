@@ -25,5 +25,7 @@ Il reste donc à faire :
   
 Voici le rendu actuel du projet :  
   
-<img src="https://github.com/LaurineObriot/GeneratorPassword/blob/master/screenshots/StockageMDP.PNG">
+<img src="https://github.com/LaurineObriot/GeneratorPassword/blob/master/screenshots/StockageMDP1.PNG">
 <img src="https://github.com/LaurineObriot/GeneratorPassword/blob/master/screenshots/StockageMDP22.png">
+<img src="https://github.com/LaurineObriot/GeneratorPassword/blob/master/screenshots/StockageMDP33PNG.png">
+<img src="https://github.com/LaurineObriot/GeneratorPassword/blob/master/screenshots/StockageMDP44.png">
