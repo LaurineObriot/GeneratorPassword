@@ -135,10 +135,10 @@ radio_strong = Radiobutton(fen, text="Strong", variable=var, value=3)
 radio_strong.place(x=270, y=240, width=75, height=25)
 
 #label pour l'URL
-TxtURL= Label(fen, text="URL DU SITE :")
+TxtURL= Label(fen, text="Site url :")
 TxtURL.place(x=90, y=300, width=200, height=50)
 CURL = Entry(fen)
-CURL.place(x=190, y=310, width=125, height=25)
+CURL.place(x=180, y=310, width=125, height=25)
 
 
 #afficher la liste déroulante
