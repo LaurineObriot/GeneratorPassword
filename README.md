@@ -4,6 +4,8 @@ Ce projet à été effectué dans le cadre de l'école ADA Tech School sur 2 sem
 
 Il s'agit d'un petit générateur de mot de passe, fait en Python, par https://github.com/Stealian, https://github.com/Nydragon00, et moi même.
 
+Lien du dépot ADA Tech School : https://github.com/adatechschool/StockageMotDePasse .
+
 Le but de ce projet est de faire un logiciel qui permet de stocker ses mots de passes de comptes de services en ligne pour ne pas avoir à tous les retenir, et de les protéger avec un mot passe (qu’il faut retenir, lui).
 
 Il existe déjà des applications similaires comme : Pass ou KeePassXC.
